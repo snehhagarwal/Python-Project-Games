@@ -1,3 +1,10 @@
+'''
+ try to solve with pseudocode:
+ a) Player vs. computer.
+ b) An interface with options.
+ c) Checking the player against the computer.
+ d) Returning the winner status.
+ e) Ask if the player wants to play again.'''
 while True:
   def game():
     print("******WELCOME TO ROCK PAPER SCISSOR GAME*******")
